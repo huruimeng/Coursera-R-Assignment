@@ -33,7 +33,7 @@ cacheSolve <- function(x, ...) {
   i
 }
 
-#testing call:
+#testing command
 #num<-1:4
 #newmatrix<-matrix(num,nrow=2,ncol=2)
 #mymatrix<-makeCacheMatrix(newmatrix)
